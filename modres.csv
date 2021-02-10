@@ -1,0 +1,703 @@
+"","predictor","slope","id","model","res.var","res.sd","resname","species_group","ngpos","sig","postprob"
+"1","LDI",0.254249696182236,1,"mod1","pa",1,"Acomys sp.","Mammals",1,0,0
+"2","LDI",0.0291093530019875,2,"mod1","pa",1,"Atelerix frontalis","Mammals",1,0,0
+"3","LDI",0.360055469235845,3,"mod1","pa",1,"Canis familiaris","Mammals",1,0,0
+"4","LDI",0.0930341519948135,4,"mod1","pa",1,"Cricetomys gambianus","Mammals",1,0,0
+"5","LDI",0.364869119367047,5,"mod1","pa",1,"Elephantulus sp.","Mammals",1,0,0
+"6","LDI",0.308970610210036,6,"mod1","pa",1,"Felis catus","Mammals",1,0,0
+"7","LDI",0.278721984048724,7,"mod1","pa",1,"Felis silvestris","Mammals",1,0,0
+"8","LDI",0.288977472048441,8,"mod1","pa",1,"Galago moholi","Mammals",1,0,0
+"9","LDI",0.250972987957645,9,"mod1","pa",1,"Galerella sanguinea","Mammals",1,0,0
+"10","LDI",0.343977162814907,10,"mod1","pa",1,"Genetta maculata","Mammals",1,0,0
+"11","LDI",0.26780776582763,11,"mod1","pa",1,"Grammomys sp.","Mammals",1,0,0
+"12","LDI",0.206605621463047,12,"mod1","pa",1,"Heliophobius argenteocinereus","Mammals",1,0,0
+"13","LDI",0.1057279385172,13,"mod1","pa",1,"Heterohyrax brucei","Mammals",1,0,0
+"14","LDI",0.134802943850778,14,"mod1","pa",1,"Ictonyx striatus","Mammals",1,0,0
+"15","LDI",0.115823786536777,15,"mod1","pa",1,"Muridae sp.","Mammals",1,0,0
+"16","LDI",0.206402197922954,16,"mod1","pa",1,"Otomys sp.","Mammals",1,0,0
+"17","LDI",0.26061862463575,17,"mod1","pa",1,"Paraxerus cepapi","Mammals",1,0,0
+"18","LDI",0.0812659475746199,18,"mod1","pa",1,"Pronolagus rupestris","Mammals",1,0,0
+"19","LDI",0.246489540600672,19,"mod1","pa",1,"Sus domesticus","Mammals",1,0,0
+"20","LDI",0.235945244970997,20,"mod1","pa",1,"Sylvicapra grimmia","Mammals",1,0,0
+"21","LDI",0.27687601821365,21,"mod1","pa",1,"Thryonomys swinderianus","Mammals",1,0,0
+"22","LDI2",-0.525874345543188,1,"mod1","pa",1,"Acomys sp.","Mammals",-1,0,0
+"23","LDI2",-0.434447549571808,2,"mod1","pa",1,"Atelerix frontalis","Mammals",-1,0,0
+"24","LDI2",-0.471904762093266,3,"mod1","pa",1,"Canis familiaris","Mammals",-1,0,0
+"25","LDI2",-0.663224772937188,4,"mod1","pa",1,"Cricetomys gambianus","Mammals",-1,0,0
+"26","LDI2",-0.650312772832764,5,"mod1","pa",1,"Elephantulus sp.","Mammals",-1,0,0
+"27","LDI2",-0.540642826907751,6,"mod1","pa",1,"Felis catus","Mammals",-1,0,0
+"28","LDI2",-0.44966477982396,7,"mod1","pa",1,"Felis silvestris","Mammals",-1,0,0
+"29","LDI2",-0.44814355191602,8,"mod1","pa",1,"Galago moholi","Mammals",-1,0,0
+"30","LDI2",-0.705405080594381,9,"mod1","pa",1,"Galerella sanguinea","Mammals",-1,0,0
+"31","LDI2",-0.596741361362161,10,"mod1","pa",1,"Genetta maculata","Mammals",-1,0,0
+"32","LDI2",-0.569520386919262,11,"mod1","pa",1,"Grammomys sp.","Mammals",-1,0,0
+"33","LDI2",-0.582961250047115,12,"mod1","pa",1,"Heliophobius argenteocinereus","Mammals",-1,0,0
+"34","LDI2",-0.271543730408441,13,"mod1","pa",1,"Heterohyrax brucei","Mammals",-1,0,0
+"35","LDI2",-0.646788910220829,14,"mod1","pa",1,"Ictonyx striatus","Mammals",-1,0,0
+"36","LDI2",-0.575728501804615,15,"mod1","pa",1,"Muridae sp.","Mammals",-1,0,0
+"37","LDI2",-0.494945898682194,16,"mod1","pa",1,"Otomys sp.","Mammals",-1,0,0
+"38","LDI2",-0.362759253912363,17,"mod1","pa",1,"Paraxerus cepapi","Mammals",-1,0,0
+"39","LDI2",-0.284542315914983,18,"mod1","pa",1,"Pronolagus rupestris","Mammals",-1,0,0
+"40","LDI2",-0.429344453093132,19,"mod1","pa",1,"Sus domesticus","Mammals",-1,0,0
+"41","LDI2",-0.358939159658671,20,"mod1","pa",1,"Sylvicapra grimmia","Mammals",-1,0,0
+"42","LDI2",-0.460208685115763,21,"mod1","pa",1,"Thryonomys swinderianus","Mammals",-1,0,0
+"43","LDI3",-0.247571202897675,1,"mod1","pa",1,"Acomys sp.","Mammals",-1,0,0
+"44","LDI3",-0.143866690749842,2,"mod1","pa",1,"Atelerix frontalis","Mammals",-1,0,0
+"45","LDI3",-0.0615952668548236,3,"mod1","pa",1,"Canis familiaris","Mammals",-1,0,0
+"46","LDI3",-0.197036697787548,4,"mod1","pa",1,"Cricetomys gambianus","Mammals",-1,0,0
+"47","LDI3",-0.284630412592711,5,"mod1","pa",1,"Elephantulus sp.","Mammals",-1,0,0
+"48","LDI3",-0.233974430117443,6,"mod1","pa",1,"Felis catus","Mammals",-1,0,0
+"49","LDI3",-0.121510168907843,7,"mod1","pa",1,"Felis silvestris","Mammals",-1,0,0
+"50","LDI3",0.00516935221586108,8,"mod1","pa",1,"Galago moholi","Mammals",1,0,0
+"51","LDI3",-0.131458342414243,9,"mod1","pa",1,"Galerella sanguinea","Mammals",-1,0,0
+"52","LDI3",0.0466611550977839,10,"mod1","pa",1,"Genetta maculata","Mammals",1,0,0
+"53","LDI3",-0.219509004178063,11,"mod1","pa",1,"Grammomys sp.","Mammals",-1,0,0
+"54","LDI3",-0.185007463157073,12,"mod1","pa",1,"Heliophobius argenteocinereus","Mammals",-1,0,0
+"55","LDI3",-0.0525001295526955,13,"mod1","pa",1,"Heterohyrax brucei","Mammals",-1,0,0
+"56","LDI3",-0.16140623056189,14,"mod1","pa",1,"Ictonyx striatus","Mammals",-1,0,0
+"57","LDI3",-0.0694183259675757,15,"mod1","pa",1,"Muridae sp.","Mammals",-1,0,0
+"58","LDI3",-0.478349741595896,16,"mod1","pa",1,"Otomys sp.","Mammals",-1,0,0
+"59","LDI3",-0.289024828679947,17,"mod1","pa",1,"Paraxerus cepapi","Mammals",-1,0,0
+"60","LDI3",-0.24951404641036,18,"mod1","pa",1,"Pronolagus rupestris","Mammals",-1,0,0
+"61","LDI3",-0.207900617457196,19,"mod1","pa",1,"Sus domesticus","Mammals",-1,0,0
+"62","LDI3",-0.0582026656117821,20,"mod1","pa",1,"Sylvicapra grimmia","Mammals",-1,0,0
+"63","LDI3",-0.193643202340296,21,"mod1","pa",1,"Thryonomys swinderianus","Mammals",-1,0,0
+"64","ME.resid",-0.167192030611659,1,"mod1","pa",1,"Acomys sp.","Mammals",-1,0,0
+"65","ME.resid",-0.800273057384902,2,"mod1","pa",1,"Atelerix frontalis","Mammals",-1,0,0
+"66","ME.resid",0.35641230352645,3,"mod1","pa",1,"Canis familiaris","Mammals",1,0,0
+"67","ME.resid",-1.00872735839417,4,"mod1","pa",1,"Cricetomys gambianus","Mammals",-1,0,0
+"68","ME.resid",-0.606986598849043,5,"mod1","pa",1,"Elephantulus sp.","Mammals",-1,0,0
+"69","ME.resid",0.0854126999287124,6,"mod1","pa",1,"Felis catus","Mammals",1,0,0
+"70","ME.resid",0.67598266926876,7,"mod1","pa",1,"Felis silvestris","Mammals",1,0,0
+"71","ME.resid",0.521932548342822,8,"mod1","pa",1,"Galago moholi","Mammals",1,0,0
+"72","ME.resid",-0.737517091249613,9,"mod1","pa",1,"Galerella sanguinea","Mammals",-1,0,0
+"73","ME.resid",-0.597860377795019,10,"mod1","pa",1,"Genetta maculata","Mammals",-1,0,0
+"74","ME.resid",0.708769926852703,11,"mod1","pa",1,"Grammomys sp.","Mammals",1,0,0
+"75","ME.resid",-0.292353212831859,12,"mod1","pa",1,"Heliophobius argenteocinereus","Mammals",-1,0,0
+"76","ME.resid",0.153142494205669,13,"mod1","pa",1,"Heterohyrax brucei","Mammals",1,0,0
+"77","ME.resid",-0.171924792356694,14,"mod1","pa",1,"Ictonyx striatus","Mammals",-1,0,0
+"78","ME.resid",1.04782649846894,15,"mod1","pa",1,"Muridae sp.","Mammals",1,0,0
+"79","ME.resid",0.223989179522474,16,"mod1","pa",1,"Otomys sp.","Mammals",1,0,0
+"80","ME.resid",-0.1152936265593,17,"mod1","pa",1,"Paraxerus cepapi","Mammals",-1,0,0
+"81","ME.resid",-0.0275447472714994,18,"mod1","pa",1,"Pronolagus rupestris","Mammals",-1,0,0
+"82","ME.resid",0.426798199871272,19,"mod1","pa",1,"Sus domesticus","Mammals",1,0,0
+"83","ME.resid",0.560980881445475,20,"mod1","pa",1,"Sylvicapra grimmia","Mammals",1,0,0
+"84","ME.resid",-0.914257044639948,21,"mod1","pa",1,"Thryonomys swinderianus","Mammals",-1,0,0
+"85","HL.resid",0.233459753951084,1,"mod1","pa",1,"Acomys sp.","Mammals",1,0,0
+"86","HL.resid",-1.10543435563922,2,"mod1","pa",1,"Atelerix frontalis","Mammals",-1,0,0
+"87","HL.resid",-0.826902005267727,3,"mod1","pa",1,"Canis familiaris","Mammals",-1,0,0
+"88","HL.resid",0.0898582244489891,4,"mod1","pa",1,"Cricetomys gambianus","Mammals",1,0,0
+"89","HL.resid",2.73565761282823,5,"mod1","pa",1,"Elephantulus sp.","Mammals",1,0,0
+"90","HL.resid",-0.637093059579696,6,"mod1","pa",1,"Felis catus","Mammals",-1,0,0
+"91","HL.resid",-3.02613058707267,7,"mod1","pa",1,"Felis silvestris","Mammals",-1,0,0
+"92","HL.resid",-2.870596239818,8,"mod1","pa",1,"Galago moholi","Mammals",-1,0,0
+"93","HL.resid",0.434869098383469,9,"mod1","pa",1,"Galerella sanguinea","Mammals",1,0,0
+"94","HL.resid",-0.893323272612849,10,"mod1","pa",1,"Genetta maculata","Mammals",-1,0,0
+"95","HL.resid",1.63387910173764,11,"mod1","pa",1,"Grammomys sp.","Mammals",1,0,0
+"96","HL.resid",-1.23700731771679,12,"mod1","pa",1,"Heliophobius argenteocinereus","Mammals",-1,0,0
+"97","HL.resid",-1.72034719642255,13,"mod1","pa",1,"Heterohyrax brucei","Mammals",-1,0,0
+"98","HL.resid",-1.36384590353645,14,"mod1","pa",1,"Ictonyx striatus","Mammals",-1,0,0
+"99","HL.resid",-2.90115984235724,15,"mod1","pa",1,"Muridae sp.","Mammals",-1,0,0
+"100","HL.resid",-1.57404264340747,16,"mod1","pa",1,"Otomys sp.","Mammals",-1,0,0
+"101","HL.resid",-2.18988873642012,17,"mod1","pa",1,"Paraxerus cepapi","Mammals",-1,0,0
+"102","HL.resid",0.724540243088446,18,"mod1","pa",1,"Pronolagus rupestris","Mammals",1,0,0
+"103","HL.resid",-2.73775159734613,19,"mod1","pa",1,"Sus domesticus","Mammals",-1,0,0
+"104","HL.resid",-2.01275152340894,20,"mod1","pa",1,"Sylvicapra grimmia","Mammals",-1,0,0
+"105","HL.resid",-1.83413625526209,21,"mod1","pa",1,"Thryonomys swinderianus","Mammals",-1,0,0
+"106","MAP",0.456927318085835,1,"mod1","pa",1,"Acomys sp.","Mammals",1,0,0
+"107","MAP",0.503741444208181,2,"mod1","pa",1,"Atelerix frontalis","Mammals",1,0,0
+"108","MAP",0.523838493001329,3,"mod1","pa",1,"Canis familiaris","Mammals",1,0,0
+"109","MAP",0.646075302308703,4,"mod1","pa",1,"Cricetomys gambianus","Mammals",1,0,0
+"110","MAP",0.707408354272245,5,"mod1","pa",1,"Elephantulus sp.","Mammals",1,0,0
+"111","MAP",0.377091344241117,6,"mod1","pa",1,"Felis catus","Mammals",1,0,0
+"112","MAP",1.3965627311419,7,"mod1","pa",1,"Felis silvestris","Mammals",1,0,0
+"113","MAP",0.840790175008926,8,"mod1","pa",1,"Galago moholi","Mammals",1,0,0
+"114","MAP",1.29579125919012,9,"mod1","pa",1,"Galerella sanguinea","Mammals",1,0,0
+"115","MAP",0.561912481440897,10,"mod1","pa",1,"Genetta maculata","Mammals",1,0,0
+"116","MAP",0.558926411795769,11,"mod1","pa",1,"Grammomys sp.","Mammals",1,0,0
+"117","MAP",1.49278945283196,12,"mod1","pa",1,"Heliophobius argenteocinereus","Mammals",1,0,0
+"118","MAP",2.02914108641752,13,"mod1","pa",1,"Heterohyrax brucei","Mammals",1,0,0
+"119","MAP",1.61099966260366,14,"mod1","pa",1,"Ictonyx striatus","Mammals",1,0,0
+"120","MAP",1.14888834778571,15,"mod1","pa",1,"Muridae sp.","Mammals",1,0,0
+"121","MAP",0.45636480486558,16,"mod1","pa",1,"Otomys sp.","Mammals",1,0,0
+"122","MAP",0.796698013271031,17,"mod1","pa",1,"Paraxerus cepapi","Mammals",1,0,0
+"123","MAP",0.970479701558437,18,"mod1","pa",1,"Pronolagus rupestris","Mammals",1,0,0
+"124","MAP",0.903241416551406,19,"mod1","pa",1,"Sus domesticus","Mammals",1,0,0
+"125","MAP",1.89571707684293,20,"mod1","pa",1,"Sylvicapra grimmia","Mammals",1,0,0
+"126","MAP",1.29654578022409,21,"mod1","pa",1,"Thryonomys swinderianus","Mammals",1,0,0
+"127","LDI",0.680921077479433,1,"mod2","Com",1.66139438880372,"SR","Mammals",1,0,0
+"128","LDI",-0.0138855034989548,2,"mod2","Com",0.0690763679282042,"MCD","Mammals",-1,0,0
+"129","LDI",0.00139230234611656,3,"mod2","Com",0.0256434489674747,"MND","Mammals",1,0,0
+"130","LDI2",-1.29171200189689,1,"mod2","Com",1.66139438880372,"SR","Mammals",-1,0,0
+"131","LDI2",0.0529436374242185,2,"mod2","Com",0.0690763679282042,"MCD","Mammals",1,0,0
+"132","LDI2",-0.011132975108355,3,"mod2","Com",0.0256434489674747,"MND","Mammals",-1,0,0
+"133","LDI3",-0.422878428401322,1,"mod2","Com",1.66139438880372,"SR","Mammals",-1,0,0
+"134","LDI3",0.0175394099492987,2,"mod2","Com",0.0690763679282042,"MCD","Mammals",1,0,0
+"135","LDI3",-0.00234186076271232,3,"mod2","Com",0.0256434489674747,"MND","Mammals",-1,0,0
+"136","ME.resid",-0.343777077931126,1,"mod2","Com",1.66139438880372,"SR","Mammals",-1,0,0
+"137","ME.resid",0.00802887484788152,2,"mod2","Com",0.0690763679282042,"MCD","Mammals",1,0,0
+"138","ME.resid",0.0014771892326526,3,"mod2","Com",0.0256434489674747,"MND","Mammals",1,0,0
+"139","HL.resid",7.88208889829915,1,"mod2","Com",1.66139438880372,"SR","Mammals",1,0,0
+"140","HL.resid",0.353464370096247,2,"mod2","Com",0.0690763679282042,"MCD","Mammals",1,0,0
+"141","HL.resid",0.0921835904465296,3,"mod2","Com",0.0256434489674747,"MND","Mammals",1,0,0
+"142","MAP",0.3025625581446,1,"mod2","Com",1.66139438880372,"SR","Mammals",1,0,0
+"143","MAP",0.0111918116962744,2,"mod2","Com",0.0690763679282042,"MCD","Mammals",1,0,0
+"144","MAP",0.00489892684394654,3,"mod2","Com",0.0256434489674747,"MND","Mammals",1,0,0
+"145","LDI",0.225268706959709,1,"com.mean","pa",1,"0","Mammals",1,0,0
+"146","LDI2",-0.500005053162347,1,"com.mean","pa",1,"0","Mammals",-1,0,0
+"147","LDI3",-0.167589740584756,1,"com.mean","pa",1,"0","Mammals",-1,0,0
+"148","ME.resid",-0.0161314662821646,1,"com.mean","pa",1,"0","Mammals",-1,0,0
+"149","HL.resid",-1.58966312333408,1,"com.mean","pa",1,"0","Mammals",-1,0,0
+"150","MAP",0.715883787697354,1,"com.mean","pa",1,"0","Mammals",1,0,0
+"151","LDI",-1.54672717468039,1,"mod1","C",1,"Acacia nigrescens","Trees",-1,0,0
+"152","LDI",-0.116278517855042,2,"mod1","C",1,"Acacia robusta","Trees",-1,0,0
+"153","LDI",-0.129964042929087,3,"mod1","C",1,"Acacia sp.","Trees",-1,0,0
+"154","LDI",0.267287822466532,4,"mod1","C",1,"Adansonia digitata","Trees",1,0,0
+"155","LDI",0.306434673716325,5,"mod1","C",1,"Afzelia quanzensis","Trees",1,0,0
+"156","LDI",-0.614589453375342,6,"mod1","C",1,"Albizia adianthifolia","Trees",-1,0,0
+"157","LDI",-0.908810675350226,7,"mod1","C",1,"Albizia amara","Trees",-1,0,0
+"158","LDI",0.0903714442982403,8,"mod1","C",1,"Allophylus africanus","Trees",1,0,0
+"159","LDI",-0.196160311131573,9,"mod1","C",1,"Aloe zebrina","Trees",-1,0,0
+"160","LDI",-0.0548654344623701,10,"mod1","C",1,"Annona senegalensis","Trees",-1,0,0
+"161","LDI",-0.542608986623516,11,"mod1","C",1,"Asparagus africanos","Trees",-1,0,0
+"162","LDI",-0.50365780048095,12,"mod1","C",1,"Azanza garckeana","Trees",-1,0,0
+"163","LDI",0.140483628980784,13,"mod1","C",1,"Bauhinia sp.","Trees",1,0,0
+"164","LDI",0.344104752362405,14,"mod1","C",1,"Boscia sp.","Trees",1,0,0
+"165","LDI",-0.709242335819342,15,"mod1","C",1,"Brachystegia boehmii","Trees",-1,0,0
+"166","LDI",0.342503764296024,16,"mod1","C",1,"Brachystegia bussei","Trees",1,0,0
+"167","LDI",-0.348897908690029,17,"mod1","C",1,"Brachystegia spiciformis","Trees",-1,0,0
+"168","LDI",-0.528733193064805,18,"mod1","C",1,"Brackenridgea zanguebarica","Trees",-1,0,0
+"169","LDI",-0.407241423551415,19,"mod1","C",1,"Burkea africana","Trees",-1,0,0
+"170","LDI",-0.916326276252564,20,"mod1","C",1,"Cassia abbreviata","Trees",-1,0,0
+"171","LDI",0.196985472170781,21,"mod1","C",1,"Catunaregam obovata","Trees",1,0,0
+"172","LDI",-0.122721345170672,22,"mod1","C",1,"Cissus integrifolia","Trees",-1,0,0
+"173","LDI",-0.0779347580566795,23,"mod1","C",1,"Combretum apiculatum","Trees",-1,0,0
+"174","LDI",0.207439372976138,24,"mod1","C",1,"Combretum collinum","Trees",1,0,0
+"175","LDI",-0.122831146642642,25,"mod1","C",1,"Combretum sp.","Trees",-1,0,0
+"176","LDI",0.0252702260069504,26,"mod1","C",1,"Crossopteryx febrifuga","Trees",1,0,0
+"177","LDI",0.234907314780694,27,"mod1","C",1,"Cussonia abyssinica","Trees",1,0,0
+"178","LDI",-0.0344984581188141,28,"mod1","C",1,"Dalbergia melanoxylon","Trees",-1,0,0
+"179","LDI",-0.498886822436838,29,"mod1","C",1,"Dalbergia nitidula","Trees",-1,0,0
+"180","LDI",0.0908101857383699,30,"mod1","C",1,"Dalbergia sp.","Trees",1,0,0
+"181","LDI",-0.435642722900496,31,"mod1","C",1,"Dichrostachys cinerea","Trees",-1,0,0
+"182","LDI",1.19004715008082,32,"mod1","C",1,"Diospyros kirkii","Trees",1,0,0
+"183","LDI",-0.132199164410296,33,"mod1","C",1,"Diospyros sp.","Trees",-1,0,0
+"184","LDI",0.235526405670153,34,"mod1","C",1,"Diplorhynchus condylocarpon","Trees",1,0,0
+"185","LDI",-0.541387493009966,35,"mod1","C",1,"Ehretia abyssinica","Trees",-1,0,0
+"186","LDI",-0.123980610279202,36,"mod1","C",1,"Ficus abutilifolia","Trees",-1,0,0
+"187","LDI",-0.123127570532984,37,"mod1","C",1,"Ficus stuhlmannii","Trees",-1,0,0
+"188","LDI",-0.0306615933835817,38,"mod1","C",1,"Flacourtia indica","Trees",-1,0,0
+"189","LDI",-0.443338660489308,39,"mod1","C",1,"Julbernardia globiflora","Trees",-1,0,0
+"190","LDI",0.214509594417863,40,"mod1","C",1,"Kigelia africana","Trees",1,0,0
+"191","LDI",0.154953298592853,41,"mod1","C",1,"Lannea discolor","Trees",1,0,0
+"192","LDI",0.0952265754007939,42,"mod1","C",1,"Lannea schweinfurthii","Trees",1,0,0
+"193","LDI",-0.525154594895483,43,"mod1","C",1,"Lannea sp.","Trees",-1,0,0
+"194","LDI",-1.33369561347782,44,"mod1","C",1,"Mangifera indica","Trees",-1,0,0
+"195","LDI",0.11715323063442,45,"mod1","C",1,"Margaritaria discoidea","Trees",1,0,0
+"196","LDI",0.175055733517388,46,"mod1","C",1,"Millettia stuhlmannii","Trees",1,0,0
+"197","LDI",-0.586069410797145,47,"mod1","C",1,"Moringa ovalifolia","Trees",-1,0,0
+"198","LDI",-0.122152487248655,48,"mod1","C",1,"Parinari curatellifolia","Trees",-1,0,0
+"199","LDI",-0.207909842978805,49,"mod1","C",1,"Pericopsis angolensis","Trees",-1,0,0
+"200","LDI",-0.30108947788921,50,"mod1","C",1,"Philenoptera bussei","Trees",-1,0,0
+"201","LDI",0.502245066827443,51,"mod1","C",1,"Piliostigma thonningii","Trees",1,0,0
+"202","LDI",0.0536401239734957,52,"mod1","C",1,"Pseudolachnostylis maprouneifolia","Trees",1,0,0
+"203","LDI",-1.19737460469931,53,"mod1","C",1,"Psorospermum febrifugum","Trees",-1,0,0
+"204","LDI",-0.164414785199256,54,"mod1","C",1,"Pteleopsis myrtifolia","Trees",-1,0,0
+"205","LDI",-0.197842138172682,55,"mod1","C",1,"Pterocarpus angolensis","Trees",-1,0,0
+"206","LDI",0.597287547197826,56,"mod1","C",1,"Pterocarpus rotundifolius","Trees",1,0,0
+"207","LDI",-0.177347098353923,57,"mod1","C",1,"Sclerocarya birrea","Trees",-1,0,0
+"208","LDI",-0.663714711136162,58,"mod1","C",1,"Senna petersiana","Trees",-1,0,0
+"209","LDI",-0.37725851139327,59,"mod1","C",1,"Steganotaenia araliacea","Trees",-1,0,0
+"210","LDI",-0.180412648503442,60,"mod1","C",1,"Sterculia africana","Trees",-1,0,0
+"211","LDI",-0.115141586653603,61,"mod1","C",1,"Sterculia quinqueloba","Trees",-1,0,0
+"212","LDI",-0.429655662531241,62,"mod1","C",1,"Stereospermum kunthianum","Trees",-1,0,0
+"213","LDI",-0.221268141263841,63,"mod1","C",1,"Strychnos sp.","Trees",-1,0,0
+"214","LDI",0.768650955956388,64,"mod1","C",1,"Strychnos spinosa","Trees",1,0,0
+"215","LDI",-0.0271469793078259,65,"mod1","C",1,"Swartzia madagascariensis","Trees",-1,0,0
+"216","LDI",-1.73105121221478,66,"mod1","C",1,"Tamarindus indica","Trees",-1,0,0
+"217","LDI",0.495461830393398,67,"mod1","C",1,"Terminalia sericea","Trees",1,0,0
+"218","LDI",-1.22732724977635,68,"mod1","C",1,"Terminalia sp.","Trees",-1,0,0
+"219","LDI",-0.210102976012327,69,"mod1","C",1,"Uapaca nitida","Trees",-1,0,0
+"220","LDI",-0.432859810337938,70,"mod1","C",1,"unid1","Trees",-1,0,0
+"221","LDI",0.14120083653896,71,"mod1","C",1,"unid10","Trees",1,0,0
+"222","LDI",-0.190584504605264,72,"mod1","C",1,"unid11","Trees",-1,0,0
+"223","LDI",-0.525502868707886,73,"mod1","C",1,"unid12","Trees",-1,0,0
+"224","LDI",-0.120276878220018,74,"mod1","C",1,"unid14","Trees",-1,0,0
+"225","LDI",0.34051875333202,75,"mod1","C",1,"unid15","Trees",1,0,0
+"226","LDI",-0.238654998781006,76,"mod1","C",1,"unid2","Trees",-1,0,0
+"227","LDI",-0.121670735610259,77,"mod1","C",1,"unid4","Trees",-1,0,0
+"228","LDI",-0.0919152335239244,78,"mod1","C",1,"unid5","Trees",-1,0,0
+"229","LDI",0.341641598165902,79,"mod1","C",1,"unid6","Trees",1,0,0
+"230","LDI",0.157068232017791,80,"mod1","C",1,"unid7","Trees",1,0,0
+"231","LDI",0.962364252330367,81,"mod1","C",1,"unid8","Trees",1,0,0
+"232","LDI",-0.866661352391888,82,"mod1","C",1,"unid9","Trees",-1,0,0
+"233","LDI",0.201031091516472,83,"mod1","C",1,"Vangueria infausta","Trees",1,0,0
+"234","LDI",-0.0055028625719226,84,"mod1","C",1,"Vernonia sp.","Trees",-1,0,0
+"235","LDI",0.16062056787998,85,"mod1","C",1,"Vitex doniana","Trees",1,0,0
+"236","LDI",-0.124905142414642,86,"mod1","C",1,"Ximenia caffra","Trees",-1,0,0
+"237","LDI",-0.122412388368548,87,"mod1","C",1,"Zanha golungensis","Trees",-1,0,0
+"238","LDI",0.158401710268018,88,"mod1","C",1,"Ziziphus mucronata","Trees",1,0,0
+"239","LDI2",-0.702949563413321,1,"mod1","C",1,"Acacia nigrescens","Trees",-1,0,0
+"240","LDI2",-0.360495438117026,2,"mod1","C",1,"Acacia robusta","Trees",-1,0,0
+"241","LDI2",0.0969689316567409,3,"mod1","C",1,"Acacia sp.","Trees",1,0,0
+"242","LDI2",-0.222709123314243,4,"mod1","C",1,"Adansonia digitata","Trees",-1,0,0
+"243","LDI2",-0.21930292000327,5,"mod1","C",1,"Afzelia quanzensis","Trees",-1,0,0
+"244","LDI2",0.578307478430206,6,"mod1","C",1,"Albizia adianthifolia","Trees",1,0,0
+"245","LDI2",-1.0167886600928,7,"mod1","C",1,"Albizia amara","Trees",-1,0,0
+"246","LDI2",-0.45094613691605,8,"mod1","C",1,"Allophylus africanus","Trees",-1,0,0
+"247","LDI2",-0.350658873149799,9,"mod1","C",1,"Aloe zebrina","Trees",-1,0,0
+"248","LDI2",0.333404028686762,10,"mod1","C",1,"Annona senegalensis","Trees",1,0,0
+"249","LDI2",-0.144059351878672,11,"mod1","C",1,"Asparagus africanos","Trees",-1,0,0
+"250","LDI2",-0.0155871359866982,12,"mod1","C",1,"Azanza garckeana","Trees",-1,0,0
+"251","LDI2",0.0865622573508943,13,"mod1","C",1,"Bauhinia sp.","Trees",1,0,0
+"252","LDI2",0.0914612843804794,14,"mod1","C",1,"Boscia sp.","Trees",1,0,0
+"253","LDI2",-0.892785048974472,15,"mod1","C",1,"Brachystegia boehmii","Trees",-1,0,0
+"254","LDI2",-0.0525920984019575,16,"mod1","C",1,"Brachystegia bussei","Trees",-1,0,0
+"255","LDI2",-0.106487355285229,17,"mod1","C",1,"Brachystegia spiciformis","Trees",-1,0,0
+"256","LDI2",-0.409676459418478,18,"mod1","C",1,"Brackenridgea zanguebarica","Trees",-1,0,0
+"257","LDI2",-0.533768596373929,19,"mod1","C",1,"Burkea africana","Trees",-1,0,0
+"258","LDI2",-0.252437800456595,20,"mod1","C",1,"Cassia abbreviata","Trees",-1,0,0
+"259","LDI2",-0.00410753608361856,21,"mod1","C",1,"Catunaregam obovata","Trees",-1,0,0
+"260","LDI2",-0.328347281475927,22,"mod1","C",1,"Cissus integrifolia","Trees",-1,0,0
+"261","LDI2",-0.26427860173767,23,"mod1","C",1,"Combretum apiculatum","Trees",-1,0,0
+"262","LDI2",-0.56673863808309,24,"mod1","C",1,"Combretum collinum","Trees",-1,0,0
+"263","LDI2",-0.770104042173559,25,"mod1","C",1,"Combretum sp.","Trees",-1,0,0
+"264","LDI2",-0.929858886358489,26,"mod1","C",1,"Crossopteryx febrifuga","Trees",-1,0,0
+"265","LDI2",-0.126520912946157,27,"mod1","C",1,"Cussonia abyssinica","Trees",-1,0,0
+"266","LDI2",-0.196826789409174,28,"mod1","C",1,"Dalbergia melanoxylon","Trees",-1,0,0
+"267","LDI2",-0.732480774980618,29,"mod1","C",1,"Dalbergia nitidula","Trees",-1,0,0
+"268","LDI2",0.229375698603052,30,"mod1","C",1,"Dalbergia sp.","Trees",1,0,0
+"269","LDI2",-0.643815063513587,31,"mod1","C",1,"Dichrostachys cinerea","Trees",-1,0,0
+"270","LDI2",-0.0699452142500385,32,"mod1","C",1,"Diospyros kirkii","Trees",-1,0,0
+"271","LDI2",-0.331497816422568,33,"mod1","C",1,"Diospyros sp.","Trees",-1,0,0
+"272","LDI2",-0.0922660550324458,34,"mod1","C",1,"Diplorhynchus condylocarpon","Trees",-1,0,0
+"273","LDI2",-0.549258665133967,35,"mod1","C",1,"Ehretia abyssinica","Trees",-1,0,0
+"274","LDI2",0.0885182353567499,36,"mod1","C",1,"Ficus abutilifolia","Trees",1,0,0
+"275","LDI2",-0.35283913247226,37,"mod1","C",1,"Ficus stuhlmannii","Trees",-1,0,0
+"276","LDI2",-0.0851722866538963,38,"mod1","C",1,"Flacourtia indica","Trees",-1,0,0
+"277","LDI2",-0.0257600150691613,39,"mod1","C",1,"Julbernardia globiflora","Trees",-1,0,0
+"278","LDI2",0.123033728579632,40,"mod1","C",1,"Kigelia africana","Trees",1,0,0
+"279","LDI2",0.0499339873672087,41,"mod1","C",1,"Lannea discolor","Trees",1,0,0
+"280","LDI2",-1.75111616156268,42,"mod1","C",1,"Lannea schweinfurthii","Trees",-1,0,0
+"281","LDI2",-0.26455941751362,43,"mod1","C",1,"Lannea sp.","Trees",-1,0,0
+"282","LDI2",-1.02704402432572,44,"mod1","C",1,"Mangifera indica","Trees",-1,0,0
+"283","LDI2",0.227671040158484,45,"mod1","C",1,"Margaritaria discoidea","Trees",1,0,0
+"284","LDI2",-0.426566869056763,46,"mod1","C",1,"Millettia stuhlmannii","Trees",-1,0,0
+"285","LDI2",-0.609501061526866,47,"mod1","C",1,"Moringa ovalifolia","Trees",-1,0,0
+"286","LDI2",-0.34378124844296,48,"mod1","C",1,"Parinari curatellifolia","Trees",-1,0,0
+"287","LDI2",-0.118764359237366,49,"mod1","C",1,"Pericopsis angolensis","Trees",-1,0,0
+"288","LDI2",-0.0411054808860675,50,"mod1","C",1,"Philenoptera bussei","Trees",-1,0,0
+"289","LDI2",-0.770272533632663,51,"mod1","C",1,"Piliostigma thonningii","Trees",-1,0,0
+"290","LDI2",-0.006073326900583,52,"mod1","C",1,"Pseudolachnostylis maprouneifolia","Trees",-1,0,0
+"291","LDI2",-0.597063290357838,53,"mod1","C",1,"Psorospermum febrifugum","Trees",-1,0,0
+"292","LDI2",0.140101820136611,54,"mod1","C",1,"Pteleopsis myrtifolia","Trees",1,0,0
+"293","LDI2",0.251292108842635,55,"mod1","C",1,"Pterocarpus angolensis","Trees",1,0,0
+"294","LDI2",-0.832003450103193,56,"mod1","C",1,"Pterocarpus rotundifolius","Trees",-1,0,0
+"295","LDI2",-0.45029716311308,57,"mod1","C",1,"Sclerocarya birrea","Trees",-1,0,0
+"296","LDI2",-0.441187470541881,58,"mod1","C",1,"Senna petersiana","Trees",-1,0,0
+"297","LDI2",-0.586245165568254,59,"mod1","C",1,"Steganotaenia araliacea","Trees",-1,0,0
+"298","LDI2",-0.180336271450391,60,"mod1","C",1,"Sterculia africana","Trees",-1,0,0
+"299","LDI2",-0.33559427191355,61,"mod1","C",1,"Sterculia quinqueloba","Trees",-1,0,0
+"300","LDI2",-0.739970893390758,62,"mod1","C",1,"Stereospermum kunthianum","Trees",-1,0,0
+"301","LDI2",0.236689400975134,63,"mod1","C",1,"Strychnos sp.","Trees",1,0,0
+"302","LDI2",-0.247954666824197,64,"mod1","C",1,"Strychnos spinosa","Trees",-1,0,0
+"303","LDI2",-0.101955171059208,65,"mod1","C",1,"Swartzia madagascariensis","Trees",-1,0,0
+"304","LDI2",-1.0767806807604,66,"mod1","C",1,"Tamarindus indica","Trees",-1,0,0
+"305","LDI2",-0.197844592648233,67,"mod1","C",1,"Terminalia sericea","Trees",-1,0,0
+"306","LDI2",-0.864486460556145,68,"mod1","C",1,"Terminalia sp.","Trees",-1,0,0
+"307","LDI2",-0.389167522945197,69,"mod1","C",1,"Uapaca nitida","Trees",-1,0,0
+"308","LDI2",-0.246141038728514,70,"mod1","C",1,"unid1","Trees",-1,0,0
+"309","LDI2",-0.314624373945781,71,"mod1","C",1,"unid10","Trees",-1,0,0
+"310","LDI2",-0.442318412037969,72,"mod1","C",1,"unid11","Trees",-1,0,0
+"311","LDI2",-0.427293476899465,73,"mod1","C",1,"unid12","Trees",-1,0,0
+"312","LDI2",-0.34331057449316,74,"mod1","C",1,"unid14","Trees",-1,0,0
+"313","LDI2",-0.482942998313657,75,"mod1","C",1,"unid15","Trees",-1,0,0
+"314","LDI2",-0.685675561568821,76,"mod1","C",1,"unid2","Trees",-1,0,0
+"315","LDI2",-0.354962263694038,77,"mod1","C",1,"unid4","Trees",-1,0,0
+"316","LDI2",-0.35636588914098,78,"mod1","C",1,"unid5","Trees",-1,0,0
+"317","LDI2",-0.313819398422568,79,"mod1","C",1,"unid6","Trees",-1,0,0
+"318","LDI2",-0.328774686545121,80,"mod1","C",1,"unid7","Trees",-1,0,0
+"319","LDI2",-0.967404700469794,81,"mod1","C",1,"unid8","Trees",-1,0,0
+"320","LDI2",-0.541916704200952,82,"mod1","C",1,"unid9","Trees",-1,0,0
+"321","LDI2",-0.57145357752902,83,"mod1","C",1,"Vangueria infausta","Trees",-1,0,0
+"322","LDI2",-1.01158662255671,84,"mod1","C",1,"Vernonia sp.","Trees",-1,0,0
+"323","LDI2",-0.620774056826943,85,"mod1","C",1,"Vitex doniana","Trees",-1,0,0
+"324","LDI2",-0.331792906705041,86,"mod1","C",1,"Ximenia caffra","Trees",-1,0,0
+"325","LDI2",-0.344660923188739,87,"mod1","C",1,"Zanha golungensis","Trees",-1,0,0
+"326","LDI2",-0.0709649353384387,88,"mod1","C",1,"Ziziphus mucronata","Trees",-1,0,0
+"327","LDI3",-0.463020839780948,1,"mod1","C",1,"Acacia nigrescens","Trees",-1,0,0
+"328","LDI3",0.036687689483838,2,"mod1","C",1,"Acacia robusta","Trees",1,0,0
+"329","LDI3",-0.786007579253952,3,"mod1","C",1,"Acacia sp.","Trees",-1,0,0
+"330","LDI3",0.156231027886888,4,"mod1","C",1,"Adansonia digitata","Trees",1,0,0
+"331","LDI3",0.265021540112264,5,"mod1","C",1,"Afzelia quanzensis","Trees",1,0,0
+"332","LDI3",-0.423039004006467,6,"mod1","C",1,"Albizia adianthifolia","Trees",-1,0,0
+"333","LDI3",-0.272366733251371,7,"mod1","C",1,"Albizia amara","Trees",-1,0,0
+"334","LDI3",-0.405743406564157,8,"mod1","C",1,"Allophylus africanus","Trees",-1,0,0
+"335","LDI3",0.066903206540563,9,"mod1","C",1,"Aloe zebrina","Trees",1,0,0
+"336","LDI3",0.59332090646896,10,"mod1","C",1,"Annona senegalensis","Trees",1,0,0
+"337","LDI3",0.320280980229874,11,"mod1","C",1,"Asparagus africanos","Trees",1,0,0
+"338","LDI3",0.573001003052657,12,"mod1","C",1,"Azanza garckeana","Trees",1,0,0
+"339","LDI3",0.213053146569712,13,"mod1","C",1,"Bauhinia sp.","Trees",1,0,0
+"340","LDI3",0.194366659541875,14,"mod1","C",1,"Boscia sp.","Trees",1,0,0
+"341","LDI3",0.339248448393713,15,"mod1","C",1,"Brachystegia boehmii","Trees",1,0,0
+"342","LDI3",-0.361822954615888,16,"mod1","C",1,"Brachystegia bussei","Trees",-1,0,0
+"343","LDI3",0.0437708468038349,17,"mod1","C",1,"Brachystegia spiciformis","Trees",1,0,0
+"344","LDI3",0.0107847606256502,18,"mod1","C",1,"Brackenridgea zanguebarica","Trees",1,0,0
+"345","LDI3",0.532957048391214,19,"mod1","C",1,"Burkea africana","Trees",1,0,0
+"346","LDI3",-0.0133708924043096,20,"mod1","C",1,"Cassia abbreviata","Trees",-1,0,0
+"347","LDI3",-0.245636264802545,21,"mod1","C",1,"Catunaregam obovata","Trees",-1,0,0
+"348","LDI3",0.0388741979989871,22,"mod1","C",1,"Cissus integrifolia","Trees",1,0,0
+"349","LDI3",0.625119360961082,23,"mod1","C",1,"Combretum apiculatum","Trees",1,0,0
+"350","LDI3",-0.0155561860066768,24,"mod1","C",1,"Combretum collinum","Trees",-1,0,0
+"351","LDI3",-0.768952142947289,25,"mod1","C",1,"Combretum sp.","Trees",-1,0,0
+"352","LDI3",-0.00832959966410308,26,"mod1","C",1,"Crossopteryx febrifuga","Trees",-1,0,0
+"353","LDI3",0.938851269459822,27,"mod1","C",1,"Cussonia abyssinica","Trees",1,0,0
+"354","LDI3",-0.0576025739956554,28,"mod1","C",1,"Dalbergia melanoxylon","Trees",-1,0,0
+"355","LDI3",-0.428036815989584,29,"mod1","C",1,"Dalbergia nitidula","Trees",-1,0,0
+"356","LDI3",0.0096245846781682,30,"mod1","C",1,"Dalbergia sp.","Trees",1,0,0
+"357","LDI3",0.161201056039745,31,"mod1","C",1,"Dichrostachys cinerea","Trees",1,0,0
+"358","LDI3",0.0195035480604086,32,"mod1","C",1,"Diospyros kirkii","Trees",1,0,0
+"359","LDI3",0.0346089958755191,33,"mod1","C",1,"Diospyros sp.","Trees",1,0,0
+"360","LDI3",0.307814163703291,34,"mod1","C",1,"Diplorhynchus condylocarpon","Trees",1,0,0
+"361","LDI3",0.118174385799328,35,"mod1","C",1,"Ehretia abyssinica","Trees",1,0,0
+"362","LDI3",0.377924170924876,36,"mod1","C",1,"Ficus abutilifolia","Trees",1,0,0
+"363","LDI3",0.038765823524939,37,"mod1","C",1,"Ficus stuhlmannii","Trees",1,0,0
+"364","LDI3",0.0290632224966806,38,"mod1","C",1,"Flacourtia indica","Trees",1,0,0
+"365","LDI3",0.201140428943663,39,"mod1","C",1,"Julbernardia globiflora","Trees",1,0,0
+"366","LDI3",-0.237158687066275,40,"mod1","C",1,"Kigelia africana","Trees",-1,0,0
+"367","LDI3",-0.00891353584739245,41,"mod1","C",1,"Lannea discolor","Trees",-1,0,0
+"368","LDI3",-0.141989764836213,42,"mod1","C",1,"Lannea schweinfurthii","Trees",-1,0,0
+"369","LDI3",0.214688206847508,43,"mod1","C",1,"Lannea sp.","Trees",1,0,0
+"370","LDI3",-0.257545360956926,44,"mod1","C",1,"Mangifera indica","Trees",-1,0,0
+"371","LDI3",0.161745238102792,45,"mod1","C",1,"Margaritaria discoidea","Trees",1,0,0
+"372","LDI3",0.15814201895695,46,"mod1","C",1,"Millettia stuhlmannii","Trees",1,0,0
+"373","LDI3",0.117375138714389,47,"mod1","C",1,"Moringa ovalifolia","Trees",1,0,0
+"374","LDI3",0.0329260036357121,48,"mod1","C",1,"Parinari curatellifolia","Trees",1,0,0
+"375","LDI3",0.567867173439983,49,"mod1","C",1,"Pericopsis angolensis","Trees",1,0,0
+"376","LDI3",-0.0198403776524648,50,"mod1","C",1,"Philenoptera bussei","Trees",-1,0,0
+"377","LDI3",-0.367662526935221,51,"mod1","C",1,"Piliostigma thonningii","Trees",-1,0,0
+"378","LDI3",0.380227815081002,52,"mod1","C",1,"Pseudolachnostylis maprouneifolia","Trees",1,0,0
+"379","LDI3",0.0425272959312612,53,"mod1","C",1,"Psorospermum febrifugum","Trees",1,0,0
+"380","LDI3",-0.0281552889791883,54,"mod1","C",1,"Pteleopsis myrtifolia","Trees",-1,0,0
+"381","LDI3",-0.461498829423321,55,"mod1","C",1,"Pterocarpus angolensis","Trees",-1,0,0
+"382","LDI3",0.349192443305939,56,"mod1","C",1,"Pterocarpus rotundifolius","Trees",1,0,0
+"383","LDI3",0.302485576188163,57,"mod1","C",1,"Sclerocarya birrea","Trees",1,0,0
+"384","LDI3",0.0379776575523161,58,"mod1","C",1,"Senna petersiana","Trees",1,0,0
+"385","LDI3",-0.14292975969731,59,"mod1","C",1,"Steganotaenia araliacea","Trees",-1,0,0
+"386","LDI3",0.248114535137243,60,"mod1","C",1,"Sterculia africana","Trees",1,0,0
+"387","LDI3",0.0519894243589318,61,"mod1","C",1,"Sterculia quinqueloba","Trees",1,0,0
+"388","LDI3",-0.334399144810197,62,"mod1","C",1,"Stereospermum kunthianum","Trees",-1,0,0
+"389","LDI3",-0.00186043443215795,63,"mod1","C",1,"Strychnos sp.","Trees",-1,0,0
+"390","LDI3",0.207575096710924,64,"mod1","C",1,"Strychnos spinosa","Trees",1,0,0
+"391","LDI3",-0.0536332271721453,65,"mod1","C",1,"Swartzia madagascariensis","Trees",-1,0,0
+"392","LDI3",0.0633493678279794,66,"mod1","C",1,"Tamarindus indica","Trees",1,0,0
+"393","LDI3",0.253163462810386,67,"mod1","C",1,"Terminalia sericea","Trees",1,0,0
+"394","LDI3",-0.0884685333294794,68,"mod1","C",1,"Terminalia sp.","Trees",-1,0,0
+"395","LDI3",0.136528410165281,69,"mod1","C",1,"Uapaca nitida","Trees",1,0,0
+"396","LDI3",0.16869907537556,70,"mod1","C",1,"unid1","Trees",1,0,0
+"397","LDI3",0.19702099698796,71,"mod1","C",1,"unid10","Trees",1,0,0
+"398","LDI3",-0.0972076988152512,72,"mod1","C",1,"unid11","Trees",-1,0,0
+"399","LDI3",0.030724286613265,73,"mod1","C",1,"unid12","Trees",1,0,0
+"400","LDI3",0.0375252264284212,74,"mod1","C",1,"unid14","Trees",1,0,0
+"401","LDI3",0.154788915737555,75,"mod1","C",1,"unid15","Trees",1,0,0
+"402","LDI3",0.0774236101603575,76,"mod1","C",1,"unid2","Trees",1,0,0
+"403","LDI3",0.0277482423667967,77,"mod1","C",1,"unid4","Trees",1,0,0
+"404","LDI3",0.153231015255001,78,"mod1","C",1,"unid5","Trees",1,0,0
+"405","LDI3",-0.56132038035779,79,"mod1","C",1,"unid6","Trees",-1,0,0
+"406","LDI3",0.195042773659382,80,"mod1","C",1,"unid7","Trees",1,0,0
+"407","LDI3",-0.204934837116592,81,"mod1","C",1,"unid8","Trees",-1,0,0
+"408","LDI3",0.147495888587235,82,"mod1","C",1,"unid9","Trees",1,0,0
+"409","LDI3",0.189418594189649,83,"mod1","C",1,"Vangueria infausta","Trees",1,0,0
+"410","LDI3",-0.230555151726076,84,"mod1","C",1,"Vernonia sp.","Trees",-1,0,0
+"411","LDI3",0.41950105087708,85,"mod1","C",1,"Vitex doniana","Trees",1,0,0
+"412","LDI3",0.0609109540487268,86,"mod1","C",1,"Ximenia caffra","Trees",1,0,0
+"413","LDI3",0.0412345968528117,87,"mod1","C",1,"Zanha golungensis","Trees",1,0,0
+"414","LDI3",0.0451820991105456,88,"mod1","C",1,"Ziziphus mucronata","Trees",1,0,0
+"415","ME.resid",-1.20487595566874,1,"mod1","C",1,"Acacia nigrescens","Trees",-1,0,0
+"416","ME.resid",-0.386105581631591,2,"mod1","C",1,"Acacia robusta","Trees",-1,0,0
+"417","ME.resid",-0.203588156432273,3,"mod1","C",1,"Acacia sp.","Trees",-1,0,0
+"418","ME.resid",-0.30705739812969,4,"mod1","C",1,"Adansonia digitata","Trees",-1,0,0
+"419","ME.resid",0.637355142262543,5,"mod1","C",1,"Afzelia quanzensis","Trees",1,0,0
+"420","ME.resid",-1.00793088736348,6,"mod1","C",1,"Albizia adianthifolia","Trees",-1,0,0
+"421","ME.resid",-1.63631654561255,7,"mod1","C",1,"Albizia amara","Trees",-1,0,0
+"422","ME.resid",-0.374806590444371,8,"mod1","C",1,"Allophylus africanus","Trees",-1,0,0
+"423","ME.resid",0.469174118466449,9,"mod1","C",1,"Aloe zebrina","Trees",1,0,0
+"424","ME.resid",-0.0576889230808899,10,"mod1","C",1,"Annona senegalensis","Trees",-1,0,0
+"425","ME.resid",-0.0654919924907525,11,"mod1","C",1,"Asparagus africanos","Trees",-1,0,0
+"426","ME.resid",-0.514641482937407,12,"mod1","C",1,"Azanza garckeana","Trees",-1,0,0
+"427","ME.resid",-0.586487505820077,13,"mod1","C",1,"Bauhinia sp.","Trees",-1,0,0
+"428","ME.resid",0.021509871236429,14,"mod1","C",1,"Boscia sp.","Trees",1,0,0
+"429","ME.resid",0.242689190211183,15,"mod1","C",1,"Brachystegia boehmii","Trees",1,0,0
+"430","ME.resid",0.0614002208448601,16,"mod1","C",1,"Brachystegia bussei","Trees",1,0,0
+"431","ME.resid",1.11355515032268,17,"mod1","C",1,"Brachystegia spiciformis","Trees",1,0,0
+"432","ME.resid",-0.628780489483398,18,"mod1","C",1,"Brackenridgea zanguebarica","Trees",-1,0,0
+"433","ME.resid",-0.060558301178252,19,"mod1","C",1,"Burkea africana","Trees",-1,0,0
+"434","ME.resid",-0.880541946498856,20,"mod1","C",1,"Cassia abbreviata","Trees",-1,0,0
+"435","ME.resid",-0.734993211339181,21,"mod1","C",1,"Catunaregam obovata","Trees",-1,0,0
+"436","ME.resid",-0.395281651950008,22,"mod1","C",1,"Cissus integrifolia","Trees",-1,0,0
+"437","ME.resid",0.131089051535992,23,"mod1","C",1,"Combretum apiculatum","Trees",1,0,0
+"438","ME.resid",-0.862156485534651,24,"mod1","C",1,"Combretum collinum","Trees",-1,0,0
+"439","ME.resid",-0.585989952999297,25,"mod1","C",1,"Combretum sp.","Trees",-1,0,0
+"440","ME.resid",-1.00362052788181,26,"mod1","C",1,"Crossopteryx febrifuga","Trees",-1,0,0
+"441","ME.resid",-0.409072668346795,27,"mod1","C",1,"Cussonia abyssinica","Trees",-1,0,0
+"442","ME.resid",0.592918298385847,28,"mod1","C",1,"Dalbergia melanoxylon","Trees",1,0,0
+"443","ME.resid",-0.411167629983793,29,"mod1","C",1,"Dalbergia nitidula","Trees",-1,0,0
+"444","ME.resid",-1.01866207074312,30,"mod1","C",1,"Dalbergia sp.","Trees",-1,0,0
+"445","ME.resid",-0.174607299839767,31,"mod1","C",1,"Dichrostachys cinerea","Trees",-1,0,0
+"446","ME.resid",-1.25435718157642,32,"mod1","C",1,"Diospyros kirkii","Trees",-1,0,0
+"447","ME.resid",-0.375333024670944,33,"mod1","C",1,"Diospyros sp.","Trees",-1,0,0
+"448","ME.resid",-0.786303991530045,34,"mod1","C",1,"Diplorhynchus condylocarpon","Trees",-1,0,0
+"449","ME.resid",0.141046083828211,35,"mod1","C",1,"Ehretia abyssinica","Trees",1,0,0
+"450","ME.resid",-0.468628959954234,36,"mod1","C",1,"Ficus abutilifolia","Trees",-1,0,0
+"451","ME.resid",-0.383581733054097,37,"mod1","C",1,"Ficus stuhlmannii","Trees",-1,0,0
+"452","ME.resid",-0.709555481884053,38,"mod1","C",1,"Flacourtia indica","Trees",-1,0,0
+"453","ME.resid",0.0774325288836068,39,"mod1","C",1,"Julbernardia globiflora","Trees",1,0,0
+"454","ME.resid",-0.738960117359104,40,"mod1","C",1,"Kigelia africana","Trees",-1,0,0
+"455","ME.resid",0.0127909967069441,41,"mod1","C",1,"Lannea discolor","Trees",1,0,0
+"456","ME.resid",-1.1611265911343,42,"mod1","C",1,"Lannea schweinfurthii","Trees",-1,0,0
+"457","ME.resid",0.0180647141549586,43,"mod1","C",1,"Lannea sp.","Trees",1,0,0
+"458","ME.resid",-1.35538277720709,44,"mod1","C",1,"Mangifera indica","Trees",-1,0,0
+"459","ME.resid",0.0950924344832265,45,"mod1","C",1,"Margaritaria discoidea","Trees",1,0,0
+"460","ME.resid",0.232268062860402,46,"mod1","C",1,"Millettia stuhlmannii","Trees",1,0,0
+"461","ME.resid",0.216583869484772,47,"mod1","C",1,"Moringa ovalifolia","Trees",1,0,0
+"462","ME.resid",-0.383593183488028,48,"mod1","C",1,"Parinari curatellifolia","Trees",-1,0,0
+"463","ME.resid",-0.16994941184074,49,"mod1","C",1,"Pericopsis angolensis","Trees",-1,0,0
+"464","ME.resid",-0.665700076187396,50,"mod1","C",1,"Philenoptera bussei","Trees",-1,0,0
+"465","ME.resid",-0.314579478672687,51,"mod1","C",1,"Piliostigma thonningii","Trees",-1,0,0
+"466","ME.resid",-0.723591094300155,52,"mod1","C",1,"Pseudolachnostylis maprouneifolia","Trees",-1,0,0
+"467","ME.resid",-0.825697413543125,53,"mod1","C",1,"Psorospermum febrifugum","Trees",-1,0,0
+"468","ME.resid",-0.516560700859784,54,"mod1","C",1,"Pteleopsis myrtifolia","Trees",-1,0,0
+"469","ME.resid",0.0252835424375606,55,"mod1","C",1,"Pterocarpus angolensis","Trees",1,0,0
+"470","ME.resid",0.165654595388884,56,"mod1","C",1,"Pterocarpus rotundifolius","Trees",1,0,0
+"471","ME.resid",-0.254587798569475,57,"mod1","C",1,"Sclerocarya birrea","Trees",-1,0,0
+"472","ME.resid",-0.624300533588038,58,"mod1","C",1,"Senna petersiana","Trees",-1,0,0
+"473","ME.resid",-0.754161305647119,59,"mod1","C",1,"Steganotaenia araliacea","Trees",-1,0,0
+"474","ME.resid",-0.831204151414871,60,"mod1","C",1,"Sterculia africana","Trees",-1,0,0
+"475","ME.resid",-0.361497189095854,61,"mod1","C",1,"Sterculia quinqueloba","Trees",-1,0,0
+"476","ME.resid",-0.500424177124564,62,"mod1","C",1,"Stereospermum kunthianum","Trees",-1,0,0
+"477","ME.resid",-1.34106845672659,63,"mod1","C",1,"Strychnos sp.","Trees",-1,0,0
+"478","ME.resid",0.701751074710911,64,"mod1","C",1,"Strychnos spinosa","Trees",1,0,0
+"479","ME.resid",0.417205999302001,65,"mod1","C",1,"Swartzia madagascariensis","Trees",1,0,0
+"480","ME.resid",-0.800103128326837,66,"mod1","C",1,"Tamarindus indica","Trees",-1,0,0
+"481","ME.resid",-0.801327080634518,67,"mod1","C",1,"Terminalia sericea","Trees",-1,0,0
+"482","ME.resid",-0.745558296209721,68,"mod1","C",1,"Terminalia sp.","Trees",-1,0,0
+"483","ME.resid",-0.671731282307822,69,"mod1","C",1,"Uapaca nitida","Trees",-1,0,0
+"484","ME.resid",-0.443787035629465,70,"mod1","C",1,"unid1","Trees",-1,0,0
+"485","ME.resid",0.283990724276615,71,"mod1","C",1,"unid10","Trees",1,0,0
+"486","ME.resid",-0.824236787510539,72,"mod1","C",1,"unid11","Trees",-1,0,0
+"487","ME.resid",-0.645387816357144,73,"mod1","C",1,"unid12","Trees",-1,0,0
+"488","ME.resid",-0.399361356336314,74,"mod1","C",1,"unid14","Trees",-1,0,0
+"489","ME.resid",-0.17973483378983,75,"mod1","C",1,"unid15","Trees",-1,0,0
+"490","ME.resid",-0.887028413849445,76,"mod1","C",1,"unid2","Trees",-1,0,0
+"491","ME.resid",-0.372691565285666,77,"mod1","C",1,"unid4","Trees",-1,0,0
+"492","ME.resid",0.382323595736608,78,"mod1","C",1,"unid5","Trees",1,0,0
+"493","ME.resid",-1.19691418949346,79,"mod1","C",1,"unid6","Trees",-1,0,0
+"494","ME.resid",0.309417661033721,80,"mod1","C",1,"unid7","Trees",1,0,0
+"495","ME.resid",-0.517754224919645,81,"mod1","C",1,"unid8","Trees",-1,0,0
+"496","ME.resid",-0.848394752341246,82,"mod1","C",1,"unid9","Trees",-1,0,0
+"497","ME.resid",0.0683902330419446,83,"mod1","C",1,"Vangueria infausta","Trees",1,0,0
+"498","ME.resid",-1.45403552466966,84,"mod1","C",1,"Vernonia sp.","Trees",-1,0,0
+"499","ME.resid",0.192146303173841,85,"mod1","C",1,"Vitex doniana","Trees",1,0,0
+"500","ME.resid",-0.399378997920375,86,"mod1","C",1,"Ximenia caffra","Trees",-1,0,0
+"501","ME.resid",-0.386180596236287,87,"mod1","C",1,"Zanha golungensis","Trees",-1,0,0
+"502","ME.resid",-0.799515797826753,88,"mod1","C",1,"Ziziphus mucronata","Trees",-1,0,0
+"503","HL.resid",-0.99933739435986,1,"mod1","C",1,"Acacia nigrescens","Trees",-1,0,0
+"504","HL.resid",-3.53270930865927,2,"mod1","C",1,"Acacia robusta","Trees",-1,0,0
+"505","HL.resid",2.42547786783171,3,"mod1","C",1,"Acacia sp.","Trees",1,0,0
+"506","HL.resid",0.929236169460878,4,"mod1","C",1,"Adansonia digitata","Trees",1,0,0
+"507","HL.resid",-1.42137960291967,5,"mod1","C",1,"Afzelia quanzensis","Trees",-1,0,0
+"508","HL.resid",1.77990698165262,6,"mod1","C",1,"Albizia adianthifolia","Trees",1,0,0
+"509","HL.resid",1.26547242760483,7,"mod1","C",1,"Albizia amara","Trees",1,0,0
+"510","HL.resid",-2.17553395793116,8,"mod1","C",1,"Allophylus africanus","Trees",-1,0,0
+"511","HL.resid",-0.330171537632086,9,"mod1","C",1,"Aloe zebrina","Trees",-1,0,0
+"512","HL.resid",2.71639367644045,10,"mod1","C",1,"Annona senegalensis","Trees",1,0,0
+"513","HL.resid",0.353890117187279,11,"mod1","C",1,"Asparagus africanos","Trees",1,0,0
+"514","HL.resid",0.840537106914372,12,"mod1","C",1,"Azanza garckeana","Trees",1,0,0
+"515","HL.resid",-0.281706933373967,13,"mod1","C",1,"Bauhinia sp.","Trees",-1,0,0
+"516","HL.resid",-0.387717687866851,14,"mod1","C",1,"Boscia sp.","Trees",-1,0,0
+"517","HL.resid",1.86922717137275,15,"mod1","C",1,"Brachystegia boehmii","Trees",1,0,0
+"518","HL.resid",0.661071580647308,16,"mod1","C",1,"Brachystegia bussei","Trees",1,0,0
+"519","HL.resid",-0.437469006204287,17,"mod1","C",1,"Brachystegia spiciformis","Trees",-1,0,0
+"520","HL.resid",-2.41757168775249,18,"mod1","C",1,"Brackenridgea zanguebarica","Trees",-1,0,0
+"521","HL.resid",0.988391906420613,19,"mod1","C",1,"Burkea africana","Trees",1,0,0
+"522","HL.resid",-1.20349611124026,20,"mod1","C",1,"Cassia abbreviata","Trees",-1,0,0
+"523","HL.resid",-2.07011308794176,21,"mod1","C",1,"Catunaregam obovata","Trees",-1,0,0
+"524","HL.resid",-3.58717799155494,22,"mod1","C",1,"Cissus integrifolia","Trees",-1,0,0
+"525","HL.resid",0.606828822407781,23,"mod1","C",1,"Combretum apiculatum","Trees",1,0,0
+"526","HL.resid",2.43542460504968,24,"mod1","C",1,"Combretum collinum","Trees",1,0,0
+"527","HL.resid",0.716514373383746,25,"mod1","C",1,"Combretum sp.","Trees",1,0,0
+"528","HL.resid",0.0334971421335444,26,"mod1","C",1,"Crossopteryx febrifuga","Trees",1,0,0
+"529","HL.resid",0.693283927957743,27,"mod1","C",1,"Cussonia abyssinica","Trees",1,0,0
+"530","HL.resid",-0.250538350815144,28,"mod1","C",1,"Dalbergia melanoxylon","Trees",-1,0,0
+"531","HL.resid",-0.414903344855447,29,"mod1","C",1,"Dalbergia nitidula","Trees",-1,0,0
+"532","HL.resid",-1.00832420469249,30,"mod1","C",1,"Dalbergia sp.","Trees",-1,0,0
+"533","HL.resid",0.311098850665496,31,"mod1","C",1,"Dichrostachys cinerea","Trees",1,0,0
+"534","HL.resid",0.703327179979412,32,"mod1","C",1,"Diospyros kirkii","Trees",1,0,0
+"535","HL.resid",-3.52985534752805,33,"mod1","C",1,"Diospyros sp.","Trees",-1,0,0
+"536","HL.resid",1.35463727100963,34,"mod1","C",1,"Diplorhynchus condylocarpon","Trees",1,0,0
+"537","HL.resid",-2.06665536867341,35,"mod1","C",1,"Ehretia abyssinica","Trees",-1,0,0
+"538","HL.resid",0.306312666775089,36,"mod1","C",1,"Ficus abutilifolia","Trees",1,0,0
+"539","HL.resid",-3.52937968718387,37,"mod1","C",1,"Ficus stuhlmannii","Trees",-1,0,0
+"540","HL.resid",-2.08573986032544,38,"mod1","C",1,"Flacourtia indica","Trees",-1,0,0
+"541","HL.resid",0.58667574844383,39,"mod1","C",1,"Julbernardia globiflora","Trees",1,0,0
+"542","HL.resid",0.098388091195948,40,"mod1","C",1,"Kigelia africana","Trees",1,0,0
+"543","HL.resid",0.537081609846268,41,"mod1","C",1,"Lannea discolor","Trees",1,0,0
+"544","HL.resid",1.32797301134142,42,"mod1","C",1,"Lannea schweinfurthii","Trees",1,0,0
+"545","HL.resid",1.0694150209662,43,"mod1","C",1,"Lannea sp.","Trees",1,0,0
+"546","HL.resid",-0.447356777586272,44,"mod1","C",1,"Mangifera indica","Trees",-1,0,0
+"547","HL.resid",0.0226376171003284,45,"mod1","C",1,"Margaritaria discoidea","Trees",1,0,0
+"548","HL.resid",-2.033000550439,46,"mod1","C",1,"Millettia stuhlmannii","Trees",-1,0,0
+"549","HL.resid",-2.19717345231027,47,"mod1","C",1,"Moringa ovalifolia","Trees",-1,0,0
+"550","HL.resid",-3.51228362018744,48,"mod1","C",1,"Parinari curatellifolia","Trees",-1,0,0
+"551","HL.resid",1.69185840045067,49,"mod1","C",1,"Pericopsis angolensis","Trees",1,0,0
+"552","HL.resid",-1.99571620931602,50,"mod1","C",1,"Philenoptera bussei","Trees",-1,0,0
+"553","HL.resid",2.34335709542416,51,"mod1","C",1,"Piliostigma thonningii","Trees",1,0,0
+"554","HL.resid",0.51283486180086,52,"mod1","C",1,"Pseudolachnostylis maprouneifolia","Trees",1,0,0
+"555","HL.resid",-1.54546158455376,53,"mod1","C",1,"Psorospermum febrifugum","Trees",-1,0,0
+"556","HL.resid",0.290780357238673,54,"mod1","C",1,"Pteleopsis myrtifolia","Trees",1,0,0
+"557","HL.resid",2.39658935326784,55,"mod1","C",1,"Pterocarpus angolensis","Trees",1,0,0
+"558","HL.resid",-0.980451285518705,56,"mod1","C",1,"Pterocarpus rotundifolius","Trees",-1,0,0
+"559","HL.resid",1.72282635860632,57,"mod1","C",1,"Sclerocarya birrea","Trees",1,0,0
+"560","HL.resid",-2.27011952107562,58,"mod1","C",1,"Senna petersiana","Trees",-1,0,0
+"561","HL.resid",-0.862553614774159,59,"mod1","C",1,"Steganotaenia araliacea","Trees",-1,0,0
+"562","HL.resid",-1.40878137055029,60,"mod1","C",1,"Sterculia africana","Trees",-1,0,0
+"563","HL.resid",-3.40232079615085,61,"mod1","C",1,"Sterculia quinqueloba","Trees",-1,0,0
+"564","HL.resid",-0.738303132738791,62,"mod1","C",1,"Stereospermum kunthianum","Trees",-1,0,0
+"565","HL.resid",-0.234603331840502,63,"mod1","C",1,"Strychnos sp.","Trees",-1,0,0
+"566","HL.resid",1.1439006462307,64,"mod1","C",1,"Strychnos spinosa","Trees",1,0,0
+"567","HL.resid",0.460774915443479,65,"mod1","C",1,"Swartzia madagascariensis","Trees",1,0,0
+"568","HL.resid",-0.462851900282809,66,"mod1","C",1,"Tamarindus indica","Trees",-1,0,0
+"569","HL.resid",2.43168340510128,67,"mod1","C",1,"Terminalia sericea","Trees",1,0,0
+"570","HL.resid",-0.439470090393143,68,"mod1","C",1,"Terminalia sp.","Trees",-1,0,0
+"571","HL.resid",-2.19190160094411,69,"mod1","C",1,"Uapaca nitida","Trees",-1,0,0
+"572","HL.resid",-1.35623453372143,70,"mod1","C",1,"unid1","Trees",-1,0,0
+"573","HL.resid",-2.08451054440291,71,"mod1","C",1,"unid10","Trees",-1,0,0
+"574","HL.resid",-1.35965445490707,72,"mod1","C",1,"unid11","Trees",-1,0,0
+"575","HL.resid",-2.24542467179486,73,"mod1","C",1,"unid12","Trees",-1,0,0
+"576","HL.resid",-3.55730998572441,74,"mod1","C",1,"unid14","Trees",-1,0,0
+"577","HL.resid",-2.16599062790151,75,"mod1","C",1,"unid15","Trees",-1,0,0
+"578","HL.resid",-1.55174510129994,76,"mod1","C",1,"unid2","Trees",-1,0,0
+"579","HL.resid",-3.67559356488557,77,"mod1","C",1,"unid4","Trees",-1,0,0
+"580","HL.resid",-2.39366015465501,78,"mod1","C",1,"unid5","Trees",-1,0,0
+"581","HL.resid",-0.393562690527116,79,"mod1","C",1,"unid6","Trees",-1,0,0
+"582","HL.resid",-2.30800640913714,80,"mod1","C",1,"unid7","Trees",-1,0,0
+"583","HL.resid",0.417817841580668,81,"mod1","C",1,"unid8","Trees",1,0,0
+"584","HL.resid",-1.2867386692378,82,"mod1","C",1,"unid9","Trees",-1,0,0
+"585","HL.resid",-2.10938863705133,83,"mod1","C",1,"Vangueria infausta","Trees",-1,0,0
+"586","HL.resid",1.05358000763862,84,"mod1","C",1,"Vernonia sp.","Trees",1,0,0
+"587","HL.resid",-0.192222510575534,85,"mod1","C",1,"Vitex doniana","Trees",-1,0,0
+"588","HL.resid",-3.53454282503931,86,"mod1","C",1,"Ximenia caffra","Trees",-1,0,0
+"589","HL.resid",-3.47700002822107,87,"mod1","C",1,"Zanha golungensis","Trees",-1,0,0
+"590","HL.resid",-0.709646286181817,88,"mod1","C",1,"Ziziphus mucronata","Trees",-1,0,0
+"591","MAP",0.820282743247782,1,"mod1","C",1,"Acacia nigrescens","Trees",1,0,0
+"592","MAP",2.65126642564016,2,"mod1","C",1,"Acacia robusta","Trees",1,0,0
+"593","MAP",0.446497097019196,3,"mod1","C",1,"Acacia sp.","Trees",1,0,0
+"594","MAP",0.683338312099983,4,"mod1","C",1,"Adansonia digitata","Trees",1,0,0
+"595","MAP",1.24304826823985,5,"mod1","C",1,"Afzelia quanzensis","Trees",1,0,0
+"596","MAP",0.709567134970332,6,"mod1","C",1,"Albizia adianthifolia","Trees",1,0,0
+"597","MAP",0.969568862835634,7,"mod1","C",1,"Albizia amara","Trees",1,0,0
+"598","MAP",1.30429583658885,8,"mod1","C",1,"Allophylus africanus","Trees",1,0,0
+"599","MAP",0.94636693467464,9,"mod1","C",1,"Aloe zebrina","Trees",1,0,0
+"600","MAP",0.632521533759459,10,"mod1","C",1,"Annona senegalensis","Trees",1,0,0
+"601","MAP",0.841944850231007,11,"mod1","C",1,"Asparagus africanos","Trees",1,0,0
+"602","MAP",0.879987692879979,12,"mod1","C",1,"Azanza garckeana","Trees",1,0,0
+"603","MAP",0.378854848913133,13,"mod1","C",1,"Bauhinia sp.","Trees",1,0,0
+"604","MAP",0.894150816627965,14,"mod1","C",1,"Boscia sp.","Trees",1,0,0
+"605","MAP",0.659224755397522,15,"mod1","C",1,"Brachystegia boehmii","Trees",1,0,0
+"606","MAP",0.812753913932104,16,"mod1","C",1,"Brachystegia bussei","Trees",1,0,0
+"607","MAP",1.04108749114891,17,"mod1","C",1,"Brachystegia spiciformis","Trees",1,0,0
+"608","MAP",1.32055008493628,18,"mod1","C",1,"Brackenridgea zanguebarica","Trees",1,0,0
+"609","MAP",0.821538367942062,19,"mod1","C",1,"Burkea africana","Trees",1,0,0
+"610","MAP",1.09929298461546,20,"mod1","C",1,"Cassia abbreviata","Trees",1,0,0
+"611","MAP",1.52218338584282,21,"mod1","C",1,"Catunaregam obovata","Trees",1,0,0
+"612","MAP",2.55631605425705,22,"mod1","C",1,"Cissus integrifolia","Trees",1,0,0
+"613","MAP",0.767751699255858,23,"mod1","C",1,"Combretum apiculatum","Trees",1,0,0
+"614","MAP",0.324854414170782,24,"mod1","C",1,"Combretum collinum","Trees",1,0,0
+"615","MAP",0.852050998712039,25,"mod1","C",1,"Combretum sp.","Trees",1,0,0
+"616","MAP",0.916511107855662,26,"mod1","C",1,"Crossopteryx febrifuga","Trees",1,0,0
+"617","MAP",0.902275332780235,27,"mod1","C",1,"Cussonia abyssinica","Trees",1,0,0
+"618","MAP",0.9056658295961,28,"mod1","C",1,"Dalbergia melanoxylon","Trees",1,0,0
+"619","MAP",0.865726333267672,29,"mod1","C",1,"Dalbergia nitidula","Trees",1,0,0
+"620","MAP",1.00991717829378,30,"mod1","C",1,"Dalbergia sp.","Trees",1,0,0
+"621","MAP",0.787390115611132,31,"mod1","C",1,"Dichrostachys cinerea","Trees",1,0,0
+"622","MAP",0.7252866813532,32,"mod1","C",1,"Diospyros kirkii","Trees",1,0,0
+"623","MAP",2.66215025774856,33,"mod1","C",1,"Diospyros sp.","Trees",1,0,0
+"624","MAP",0.309305147236084,34,"mod1","C",1,"Diplorhynchus condylocarpon","Trees",1,0,0
+"625","MAP",1.49729963429506,35,"mod1","C",1,"Ehretia abyssinica","Trees",1,0,0
+"626","MAP",0.862795923340742,36,"mod1","C",1,"Ficus abutilifolia","Trees",1,0,0
+"627","MAP",2.68081737385181,37,"mod1","C",1,"Ficus stuhlmannii","Trees",1,0,0
+"628","MAP",1.34788252743178,38,"mod1","C",1,"Flacourtia indica","Trees",1,0,0
+"629","MAP",0.303593551944278,39,"mod1","C",1,"Julbernardia globiflora","Trees",1,0,0
+"630","MAP",0.934552300939069,40,"mod1","C",1,"Kigelia africana","Trees",1,0,0
+"631","MAP",0.883740609069548,41,"mod1","C",1,"Lannea discolor","Trees",1,0,0
+"632","MAP",0.819592790432254,42,"mod1","C",1,"Lannea schweinfurthii","Trees",1,0,0
+"633","MAP",0.724555454583356,43,"mod1","C",1,"Lannea sp.","Trees",1,0,0
+"634","MAP",0.909123688652235,44,"mod1","C",1,"Mangifera indica","Trees",1,0,0
+"635","MAP",1.03674937066206,45,"mod1","C",1,"Margaritaria discoidea","Trees",1,0,0
+"636","MAP",1.4527684474477,46,"mod1","C",1,"Millettia stuhlmannii","Trees",1,0,0
+"637","MAP",1.38323437874551,47,"mod1","C",1,"Moringa ovalifolia","Trees",1,0,0
+"638","MAP",2.69920049630037,48,"mod1","C",1,"Parinari curatellifolia","Trees",1,0,0
+"639","MAP",0.937067853405391,49,"mod1","C",1,"Pericopsis angolensis","Trees",1,0,0
+"640","MAP",1.39304827007558,50,"mod1","C",1,"Philenoptera bussei","Trees",1,0,0
+"641","MAP",0.668192893949617,51,"mod1","C",1,"Piliostigma thonningii","Trees",1,0,0
+"642","MAP",0.426773187474352,52,"mod1","C",1,"Pseudolachnostylis maprouneifolia","Trees",1,0,0
+"643","MAP",1.15373613265523,53,"mod1","C",1,"Psorospermum febrifugum","Trees",1,0,0
+"644","MAP",0.902382428794403,54,"mod1","C",1,"Pteleopsis myrtifolia","Trees",1,0,0
+"645","MAP",0.576797213174654,55,"mod1","C",1,"Pterocarpus angolensis","Trees",1,0,0
+"646","MAP",1.01172812484215,56,"mod1","C",1,"Pterocarpus rotundifolius","Trees",1,0,0
+"647","MAP",0.593197257690308,57,"mod1","C",1,"Sclerocarya birrea","Trees",1,0,0
+"648","MAP",1.43716756730969,58,"mod1","C",1,"Senna petersiana","Trees",1,0,0
+"649","MAP",1.05702625447479,59,"mod1","C",1,"Steganotaenia araliacea","Trees",1,0,0
+"650","MAP",1.07834205300717,60,"mod1","C",1,"Sterculia africana","Trees",1,0,0
+"651","MAP",2.68928411903564,61,"mod1","C",1,"Sterculia quinqueloba","Trees",1,0,0
+"652","MAP",1.10234582615364,62,"mod1","C",1,"Stereospermum kunthianum","Trees",1,0,0
+"653","MAP",0.849996597556668,63,"mod1","C",1,"Strychnos sp.","Trees",1,0,0
+"654","MAP",0.918710266187285,64,"mod1","C",1,"Strychnos spinosa","Trees",1,0,0
+"655","MAP",0.815475800158843,65,"mod1","C",1,"Swartzia madagascariensis","Trees",1,0,0
+"656","MAP",0.888049004625541,66,"mod1","C",1,"Tamarindus indica","Trees",1,0,0
+"657","MAP",0.648432639479514,67,"mod1","C",1,"Terminalia sericea","Trees",1,0,0
+"658","MAP",0.935598749460587,68,"mod1","C",1,"Terminalia sp.","Trees",1,0,0
+"659","MAP",1.36190385535597,69,"mod1","C",1,"Uapaca nitida","Trees",1,0,0
+"660","MAP",1.13737478915774,70,"mod1","C",1,"unid1","Trees",1,0,0
+"661","MAP",1.33732795009735,71,"mod1","C",1,"unid10","Trees",1,0,0
+"662","MAP",1.167746537402,72,"mod1","C",1,"unid11","Trees",1,0,0
+"663","MAP",1.40204921351753,73,"mod1","C",1,"unid12","Trees",1,0,0
+"664","MAP",2.65510152965038,74,"mod1","C",1,"unid14","Trees",1,0,0
+"665","MAP",1.35438938467788,75,"mod1","C",1,"unid15","Trees",1,0,0
+"666","MAP",1.11118133333003,76,"mod1","C",1,"unid2","Trees",1,0,0
+"667","MAP",2.67550531103893,77,"mod1","C",1,"unid4","Trees",1,0,0
+"668","MAP",1.4050468697184,78,"mod1","C",1,"unid5","Trees",1,0,0
+"669","MAP",0.83005297613272,79,"mod1","C",1,"unid6","Trees",1,0,0
+"670","MAP",1.39069739410086,80,"mod1","C",1,"unid7","Trees",1,0,0
+"671","MAP",0.953929089042117,81,"mod1","C",1,"unid8","Trees",1,0,0
+"672","MAP",1.09356269295897,82,"mod1","C",1,"unid9","Trees",1,0,0
+"673","MAP",1.34100284037281,83,"mod1","C",1,"Vangueria infausta","Trees",1,0,0
+"674","MAP",0.766632578782648,84,"mod1","C",1,"Vernonia sp.","Trees",1,0,0
+"675","MAP",1.28144560919284,85,"mod1","C",1,"Vitex doniana","Trees",1,0,0
+"676","MAP",2.58749405610336,86,"mod1","C",1,"Ximenia caffra","Trees",1,0,0
+"677","MAP",2.68588776123603,87,"mod1","C",1,"Zanha golungensis","Trees",1,0,0
+"678","MAP",1.09004968955148,88,"mod1","C",1,"Ziziphus mucronata","Trees",1,0,0
+"679","LDI",-2.71527100354232,1,"mod2","Com",5.78606839732953,"SR","Trees",-1,0,0
+"680","LDI",0.00506094952137717,2,"mod2","Com",0.0457559841798077,"MCD","Trees",1,0,0
+"681","LDI",-0.00870027128213139,3,"mod2","Com",0.0427284827776036,"MND","Trees",-1,0,0
+"682","LDI2",-4.38852116506758,1,"mod2","Com",5.78606839732953,"SR","Trees",-1,0,0
+"683","LDI2",0.0167150429316595,2,"mod2","Com",0.0457559841798077,"MCD","Trees",1,0,0
+"684","LDI2",-0.00630313673593758,3,"mod2","Com",0.0427284827776036,"MND","Trees",-1,0,0
+"685","LDI3",1.1413472548313,1,"mod2","Com",5.78606839732953,"SR","Trees",1,0,0
+"686","LDI3",-0.0119275056337456,2,"mod2","Com",0.0457559841798077,"MCD","Trees",-1,0,0
+"687","LDI3",0.00652091730668239,3,"mod2","Com",0.0427284827776036,"MND","Trees",1,0,0
+"688","ME.resid",-4.59251952709405,1,"mod2","Com",5.78606839732953,"SR","Trees",-1,0,0
+"689","ME.resid",0.0343495306289232,2,"mod2","Com",0.0457559841798077,"MCD","Trees",1,0,0
+"690","ME.resid",-0.00492880609168519,3,"mod2","Com",0.0427284827776036,"MND","Trees",-1,0,0
+"691","HL.resid",46.5888718729812,1,"mod2","Com",5.78606839732953,"SR","Trees",1,0,0
+"692","HL.resid",0.344112720361584,2,"mod2","Com",0.0457559841798077,"MCD","Trees",1,0,0
+"693","HL.resid",0.128207669889698,3,"mod2","Com",0.0427284827776036,"MND","Trees",1,0,0
+"694","MAP",0.975203464547651,1,"mod2","Com",5.78606839732953,"SR","Trees",1,0,0
+"695","MAP",0.0097519107780435,2,"mod2","Com",0.0457559841798077,"MCD","Trees",1,0,0
+"696","MAP",0.00792232918564765,3,"mod2","Com",0.0427284827776036,"MND","Trees",1,0,0
+"697","LDI",-0.139544679091478,1,"com.mean","C",1,"0","Trees",-1,0,0
+"698","LDI2",-0.344117241748043,1,"com.mean","C",1,"0","Trees",-1,0,0
+"699","LDI3",0.046887740648229,1,"com.mean","C",1,"0","Trees",1,0,0
+"700","ME.resid",-0.384235000118227,1,"com.mean","C",1,"0","Trees",-1,0,0
+"701","HL.resid",-1.86511826326336,1,"com.mean","C",1,"0","Trees",-1,0,0
+"702","MAP",0.485080614086622,1,"com.mean","C",1,"0","Trees",1,0,0

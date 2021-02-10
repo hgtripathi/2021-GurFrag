@@ -1,0 +1,70 @@
+
+    model {
+    # Priors for full and unobserved community size
+    omega ~ dunif(0,1)
+    
+    # Community Level Priors   
+    for(k in 1:M){
+    
+    # Intercepts 
+    det0[k] ~ dnorm(mu.det0, tau.det0)     # Detection intercepts
+    beta0[k] ~ dnorm(mu.beta0, tau.beta0)  # Abundance intercepts               
+    
+    for (v in 1:5)     {        # hyperpriors for beta coefficients 
+    beta[k,v] ~ dnorm(mu.beta[v], tau.beta[v])      
+    }
+    } 
+    
+    # HyperPriors 
+    # detection  Intercept 
+    mu.det0~dunif(-10, 10) 
+    tau.det0 <- pow(sd.det0, -2)
+    sd.det0~dunif(0, 10) 
+    
+   # For Abundance Intercept 
+    mu.beta0 ~ dunif(-10, 10)                        
+    tau.beta0 <- pow(sd.beta0, -2)
+    sd.beta0 <-3
+    
+    # Beta Coefficients for predictor variables
+    for ( v in 1:6) { 
+    mu.beta[v] ~ dunif(-10, 10)
+    tau.beta[v] <- pow(sd.beta[v], -2)
+    sd.beta[v] ~ dunif(0, 10) } 
+    
+    # Superpopulation process: Ntotal species sampled out of M available
+    for(k in 1:M){
+    w[k] ~ dbern(omega) 
+    }
+    # Ecological model for true abundance (process model)
+    for(k in 1:M){
+    for (i in 1:nsite){
+    N[i,k] ~ dpois(lambda[i,k]*w[k])
+    
+    log(lambda[i,k]) <- beta0[k] + beta[k,1]*var1[i] + beta[k,2]*pow(var1[i],2) 
+    + beta[k,3]*var2[i] + beta[k,4]*var3[i] + beta[k,5]*var4[i]
+    
+    # Compute presence/absence matrix z (for N > 0) from latent abundance
+    z[i,k] <- step(N[i,k]-1)  # returns TRUE if N >= 0
+    }}
+    
+    # Observation model for replicated counts
+    for(k in 1:M){
+    for (i in 1:nsite){
+    for (j in 1:nrep){
+    Yc[i,j,k] ~ dbin(p[i,j,k], N[i,k])
+    logit(p[i,j,k]) <- det0[k]
+    }}}
+    
+    # Other derived quantities
+    for(k in 1:M){
+    mlambda[k] <- exp(beta0[k]) # Expected abundance on natural scale
+    logit(mp[k]) <- det0[k]     # Mean detection on natural scale
+    }
+    for (i in 1:nsite) {
+    Nsite[i] <- sum(z[i,])        # Number of occurring species at each site
+    }
+    n0 <- sum(w[(nspec+1):(M)]) # Number of unseen species
+    Ntotal <- sum(w[])                 # Total metacommunity size
+    }
+    

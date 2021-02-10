@@ -1,0 +1,36 @@
+
+    model {
+    # Priors 
+    for (d in 1: nv) {
+    beta0[d] ~ dnorm(0, 0.001) # intercept for diveristy variables 
+    tau.sp[d] <- pow(sd.sp[d], -2)
+    sd.sp[d] ~ dunif(0,10)
+    
+    # beta coefficients 
+    
+    # Covariates 
+    beta[d,1]~dnorm(0,0.01) # ldi
+    beta[d,2]~dnorm(0,0.01) #  ldi^2
+    beta[d,3]~dnorm(0,0.01) # me.resid
+    beta[d,4]~dnorm (0,0.01) # hl.resid
+    beta[d,5]~dnorm (0,0.01) # map
+    }
+    
+    for (i in 1: n) {
+    for (d in 1: nv) { 
+    pm[i,d]~ dnorm (mu[i,d], tau.psd[i,d])
+    tau.psd[i,d] <- pow(psd[i,d], -2) # 'Known' part of residual: meas. error
+    
+    mu[i,d] <- beta0[d] + beta[d,1]*var1[i] + beta[d,2]* pow(var1[i],2)
+    + beta[d,3]* var2[i]+ beta[d,4] * var3[i]+ beta[d,5] * var4[i]+ eps.sp[i,d] # add another source of uncertainty
+    
+    eps.sp[i,d] ~ dnorm(0, tau.sp[d]) # this is the usual 'residual'
+    } }
+    # Get predictions 
+    for (i in 1: npred){ 
+    for (d in 1: nv)   { 
+    Npred[d,i] <- beta0[d] + beta[d,1] * pred.ldi[i] + beta[d,2] * pow(pred.ldi[i],2)
+    }}
+    }
+    
+    

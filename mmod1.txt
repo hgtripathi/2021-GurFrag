@@ -1,0 +1,61 @@
+
+    model {
+    # Priors for heterogeneity among species in the community
+    for(k in 1:M){  # Loop over all species in augmented list
+    lpsi[k] ~ dnorm(mu.lpsi, tau.lpsi)
+    lp[k] ~ dnorm(mu.lp, tau.lp)
+    
+    # Effect of predictor variables 
+    for ( u in 1: 5) {   # number of predictors for lpsi 
+    betalpsi[k,u] ~ dnorm(mu.betalpsi[u], tau.betalpsi[u])}
+    }
+    
+    # Hyperpriors 
+    omega ~ dunif(0,1)              # Data augmentation parameter
+    mu.lpsi ~ dnorm(0,0.001)        # Community mean of occupancy (logit)
+    mu.lp ~ dnorm(0,0.001)          # Community mean of detection (logit)
+    tau.lpsi <- pow(sd.lpsi, -2)
+    sd.lpsi ~ dunif(0,5)            # Species heterogeneity in logit(psi)
+    tau.lp <- pow(sd.lp, -2)
+    sd.lp ~ dunif(0,5)              # Species heterogeneity in logit(p)
+    
+    for ( u in 1: 6) {  # hyperpriors for occupancy beta coefficients 
+    mu.betalpsi[u] ~ dnorm(0,0.001)
+    tau.betalpsi[u] <- pow(sd.betalpsi[u], -2)
+    sd.betalpsi[u] ~ dunif(0, 5)} 
+    
+    # Superpopulation process:this is the 'paramater expansion' part of PX-DA
+    for(k in 1:M){
+    w[k] ~ dbern(omega)           # Metacommunity membership indicator
+    }                               # (or data augmentation variable)
+    
+    # Ecological model for latent occurrence z (process model)
+    for(k in 1:M){
+    for (i in 1:nsite) {
+    logit(psi[i,k]) <- lpsi[k] + betalpsi[k,1]*var1[i] + betalpsi[k,2]*pow(var1[i],2) 
+    + betalpsi[k,3]*var2[i] + betalpsi[k,4] * var3[i]+ betalpsi[k,5] * var4[i]
+    mu.psi[i,k] <- w[k] * psi[i, k]    # species not part of community zeroed out for z
+    z[i,k] ~ dbern(mu.psi[i,k])
+    }
+    }
+    
+    # Observation model for observed detection frequencies
+    for(k in 1:M){
+    logit(p[k]) <- lp[k]
+    for (i in 1:nsite) {
+    mu.p[i,k] <- z[i,k] * p[k]  # non-occurring species are zeroed out for p
+    Yaug[i,k] ~ dbin(mu.p[i,k], nrep[i])
+    }
+    }
+    
+    # Derived quantities
+    for(k in 1:M){
+    Nocc.fs[k] <- sum(z[,k])     # Number of occupied sites
+    }
+    for (i in 1:nsite) {
+    Nsite[i] <- sum(z[i,])       # Number of occurring species at each site
+    }
+    n0 <- sum(w[(nspec+1):(nspec+nz)]) # Number of unseen species in metacommunity
+    Ntotal <- sum(w[])              # Total metacommunity size (= nspec + n0)
+    }
+    
